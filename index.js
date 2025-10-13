@@ -47613,6 +47613,7 @@ function getRandomColor() {
   return color;
   return color;
 }
+   
 // Change the background color every second to a random color
 // Change the background color every second to a random color
 // Change the background color every second to a random color
